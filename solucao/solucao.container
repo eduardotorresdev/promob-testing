@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CONTAINER>
+  <DOCUMENTS>
+    <DOCUMENT FOLDER="document1" IDCODON="dadosCliente" DESCRIPTION="Dados do Cliente" />
+  </DOCUMENTS>
+  <CONTAINERS>
+    <CONTAINER FOLDER="container1" IDCODON="Projeto" />
+  </CONTAINERS>
+  <METADATAMANAGER>
+    <METADATACOLLECTION>
+      <METADATA ID="CustomerNumber" VALUE="5" />
+    </METADATACOLLECTION>
+  </METADATAMANAGER>
+  <INFORMACOESADICIONAIS>
+    <PROJECTGUID GUID="62bcab3a-f149-49ab-b5c1-f9743f48a4ed" />
+  </INFORMACOESADICIONAIS>
+</CONTAINER>
