@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATACLIENT ID="1" NAME="Dados do Cliente">
+  <TASKCOLLECTION />
+  <FIELDS>
+    <FIELD NAME="rep_codempresa" VALUE="" ID="rep_codempresa" DESCRIPTION="Código da Empresa" />
+    <FIELD NAME="rep_nomeempresa" VALUE="" ID="rep_nomeempresa" DESCRIPTION="Nome da Empresa" />
+    <FIELD NAME="rep_cnpjempresa" VALUE="" ID="rep_cnpjempresa" DESCRIPTION="CNPJ" />
+    <FIELD NAME="rep_enderecoempresa" VALUE="" ID="rep_enderecoempresa" DESCRIPTION="Endereço da Empresa" />
+    <FIELD NAME="rep_bairroempresa" VALUE="" ID="rep_bairroempresa" DESCRIPTION="Bairro da Empresa" />
+    <FIELD NAME="rep_cidadeempresa" VALUE="" ID="rep_cidadeempresa" DESCRIPTION="Cidade da Empresa" />
+    <FIELD NAME="rep_ufempresa" VALUE="" ID="rep_ufempresa" DESCRIPTION="Estado da Empresa" />
+    <FIELD NAME="rep_cepenpresa" VALUE="" ID="rep_cepenpresa" DESCRIPTION="CEP da Empresa" />
+    <FIELD NAME="rep_telefoneempresa" VALUE="" ID="rep_telefoneempresa" DESCRIPTION="Telefone da Empresa" />
+    <FIELD NAME="rep_emailempresa" VALUE="" ID="rep_emailempresa" DESCRIPTION="E-mail do Responsável da Empresa" />
+    <FIELD NAME="rep_contatoempresa" VALUE="" ID="rep_contatoempresa" DESCRIPTION="Contato do Responsável da Empresa" />
+    <FIELD NAME="observacoes" VALUE="" ID="Observation" DESCRIPTION="" />
+    <FIELD NAME="Situation" VALUE="Running" ID="Situation" DESCRIPTION="" />
+    <FIELD NAME="Stage" VALUE="Prospection" ID="Stage" DESCRIPTION="" />
+    <FIELD NAME="DeliveryDate" VALUE="" ID="DeliveryDate" DESCRIPTION="" />
+    <FIELD NAME="ClosingDate" VALUE="" ID="ClosingDate" DESCRIPTION="" />
+    <FIELD NAME="Environment" VALUE="Kitchen" ID="Environment" DESCRIPTION="" />
+    <FIELD NAME="Type" VALUE="Principal" ID="Type" DESCRIPTION="" />
+    <FIELD NAME="CreatedOn" VALUE="3/25/2025 4:05:49 PM" ID="CreatedOn" DESCRIPTION="" />
+    <FIELD NAME="ModifiedOn" VALUE="4/12/2025 6:15:36 PM" ID="ModifiedOn" DESCRIPTION="" />
+    <FIELD NAME="nomecliente" VALUE="RICARDO DIAS MORAES" ID="nomecliente" DESCRIPTION="" />
+    <FIELD NAME="customerType" VALUE="Physical" ID="customerType" DESCRIPTION="" />
+    <FIELD NAME="corporateName" VALUE="RICARDO DIAS MORAES" ID="corporateName" DESCRIPTION="" />
+    <FIELD NAME="nickName" VALUE="" ID="nickName" DESCRIPTION="" />
+    <FIELD NAME="dateOfBirth" VALUE="" ID="dateOfBirth" DESCRIPTION="" />
+    <FIELD NAME="cpfcnpj" VALUE="" ID="cpfcnpj" DESCRIPTION="" />
+    <FIELD NAME="endereco" VALUE="" ID="endereco" DESCRIPTION="" />
+    <FIELD NAME="bairro" VALUE="" ID="bairro" DESCRIPTION="" />
+    <FIELD NAME="cep" VALUE="" ID="cep" DESCRIPTION="" />
+    <FIELD NAME="endentrega" VALUE="" ID="endentrega" DESCRIPTION="" />
+    <FIELD NAME="fone" VALUE="" ID="fone" DESCRIPTION="" />
+    <FIELD NAME="celular" VALUE="98991688606" ID="celular" DESCRIPTION="" />
+    <FIELD NAME="email" VALUE="projetosportile@gmail.com" ID="email" DESCRIPTION="" />
+    <FIELD NAME="codcliente" VALUE="" ID="codcliente" DESCRIPTION="" />
+    <FIELD NAME="customerObservation" VALUE="" ID="customerObservation" DESCRIPTION="" />
+    <FIELD NAME="email_Private_0" VALUE="projetosportile@gmail.com" ID="email_Private_0" DESCRIPTION="" />
+    <FIELD NAME="phone_Mobile_0" VALUE="98991688606" ID="phone_Mobile_0" DESCRIPTION="" />
+  </FIELDS>
+</DATACLIENT>
